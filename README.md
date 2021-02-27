@@ -9,3 +9,5 @@ A Binary Search Tree with basic functionality and traversals.
   Traverse the tree and get a detailed output of each node
   
   Reverse the tree
+
+BST.java contains a main() that can be modified to fit various needs
