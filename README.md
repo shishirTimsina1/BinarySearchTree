@@ -1,6 +1,10 @@
 # BinarySearchTree
 A Binary Search Tree with basic functionality and traversals.
 
+## Source
+  [BinarySearchTree](https://github.com/sht99/BinarySearchTree)
+
+
 # Functions 
   Add/ search/ delete a key (Strings, Integers...)
   
@@ -11,3 +15,5 @@ A Binary Search Tree with basic functionality and traversals.
   Reverse the tree
 
 BST.java contains a main() that can be modified to fit various needs
+
+
